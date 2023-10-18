@@ -1,0 +1,3 @@
+geographic_msgs/GeoPoint coordinate_system_origin
+float64 coordinate_system_rotation_rad
+iso_msgs/CoordinateSystem coordinate_system_type
