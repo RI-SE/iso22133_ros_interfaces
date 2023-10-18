@@ -1,3 +1,11 @@
+iso_msgs/DesiredID desired_id
 geographic_msgs/GeoPoint coordinate_system_origin
 float64 coordinate_system_rotation_rad
 iso_msgs/CoordinateSystem coordinate_system_type
+builtin_interfaces/Duration current_time
+iso_msgs/MaxDeviation max_deviation
+float64 min_required_positioning_accuracy_m
+iso_msgs/TestMode test_mode
+builtin_interfaces/Duration heab_timeout
+iso_msgs/Rate rate
+iso_msgs/TimeServer time_server
