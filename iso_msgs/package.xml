@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="sebastian.svanland@astazero.com">bosdator1</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MPL 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <depend>geographic_msgs</depend>
