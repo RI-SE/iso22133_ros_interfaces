@@ -1,4 +1,4 @@
-iso_msgs/DesiredID desired_id
+iso_msgs/DesiredId desired_id
 geographic_msgs/GeoPoint coordinate_system_origin
 float64 coordinate_system_rotation_rad
 iso_msgs/CoordinateSystem coordinate_system_type

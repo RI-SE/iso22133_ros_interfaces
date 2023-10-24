@@ -20,6 +20,13 @@ set(msg_files
   "msg/ObjectSettings.msg"
   "msg/CartesianTrajectory.msg"
   "msg/CartesianTrajectoryPoint.msg"
+  "msg/DesiredId.msg"
+  "msg/MaxDeviation.msg"
+  "msg/Rate.msg"
+  "msg/TestMode.msg"
+  "msg/TimeServer.msg"
+  "msg/TrajectoryHeader.msg"
+  "msg/TrajectoryInfo.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
