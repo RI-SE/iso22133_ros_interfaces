@@ -1,0 +1,3 @@
+uint32 transmitter
+uint32 sub_transmitter
+uint32 control_centre
