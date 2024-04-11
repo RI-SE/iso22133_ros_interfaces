@@ -17,6 +17,7 @@ find_package(builtin_interfaces REQUIRED)
 
 set(msg_files
   "msg/CoordinateSystem.msg"
+  "msg/ObjectState.msg"
   "msg/ObjectSettings.msg"
   "msg/CartesianTrajectory.msg"
   "msg/CartesianTrajectoryPoint.msg"
@@ -27,6 +28,8 @@ set(msg_files
   "msg/OSEMTimeServer.msg"
   "msg/TrajectoryHeader.msg"
   "msg/TrajectoryInfo.msg"
+  "msg/Abort.msg"
+  "msg/Start.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
